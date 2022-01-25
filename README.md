@@ -1,3 +1,10 @@
 # IP
 
-yoyoyoyoyo do u see this
+Teamname: Sprucelings 
+
+Project Name: SpruceCity
+
+Features :
+
+Technologies :
+
